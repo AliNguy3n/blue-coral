@@ -25,7 +25,7 @@ export type HeroProps = {
 
 export function Hero({
   slides,
-  autoPlay = false,
+  autoPlay = true,
   className,
   "aria-label": ariaLabel = "Giới thiệu",
   carouselLabel = "Ảnh giới thiệu",
