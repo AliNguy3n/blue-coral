@@ -1,0 +1,124 @@
+{
+  "hero": {
+    "slides": [
+      {
+        "id": "01",
+        "src": "/Landing_pic.png",
+        "mobile-src": "/Mobile_Landing_pic.png",
+        "heading": "Quản lý dễ dàng,\nbán hàng hiệu quả",
+        "body": "Chào mừng bạn đến với Xứ sở thần tiên. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "cta": { "label": "Đặt lịch tư vấn", "href": "/dat-lich" }
+      },
+      {
+        "id": "02",
+        "src": "/Landing_pic.png",
+        "mobile-src": "/Mobile_Landing_pic.png",
+        "heading": "Quản lý dễ dàng,\nbán hàng hiệu quả",
+        "body": "Chào mừng bạn đến với Xứ sở thần tiên. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "cta": { "label": "Đặt lịch tư vấn", "href": "/dat-lich" }
+      },
+      {
+        "id": "03",
+        "src": "/Landing_pic.png",
+        "mobile-src": "/Mobile_Landing_pic.png",
+        "heading": "Quản lý dễ dàng,\nbán hàng hiệu quả",
+        "body": "Chào mừng bạn đến với Xứ sở thần tiên. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "cta": { "label": "Đặt lịch tư vấn", "href": "/dat-lich" }
+      },
+      {
+        "id": "04",
+        "src": "/Landing_pic.png",
+        "mobile-src": "/Mobile_Landing_pic.png",
+        "heading": "Quản lý dễ dàng,\nbán hàng hiệu quả",
+        "body": "Chào mừng bạn đến với Xứ sở thần tiên. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "cta": { "label": "Đặt lịch tư vấn", "href": "/dat-lich" }
+      }
+    ]
+  },
+
+  "industry": {
+    "eyebrow": "long subtitle",
+    "heading": "Everything You Need",
+    "body": "Improve speed of service, boost kitchen efficiency, and drive repeat business with a restaurant management solution that offers everything you need to maximize profits and offer an unparalleled guest experience – all in one place.",
+    "industries": [
+      {
+        "value": "food",
+        "label": "Ăn uống",
+        "icon": "food",
+        "models": [
+          {
+            "value": "cafe",
+            "label": "Quán cà phê",
+            "description": "Qtable POS giúp order nhanh, chọn size/topping, in phiếu bar và quản lý mang đi/ngồi lại hiệu quả."
+          },
+          {
+            "value": "restaurant",
+            "label": "Quán ăn / nhà hàng",
+            "description": "Quản lý sơ đồ bàn, gộp/tách hoá đơn và đẩy món xuống bếp theo thời gian thực."
+          },
+          {
+            "value": "bar",
+            "label": "Quán bar / lounge / pub",
+            "description": "Mở bill theo bàn, chạy tab khách quen và chốt ca cuối đêm chỉ với vài thao tác."
+          },
+          {
+            "value": "mobile",
+            "label": "Quán ăn di động",
+            "description": "Bán hàng ngoại tuyến, in bill di động và đồng bộ lại khi có mạng trở lại."
+          },
+          {
+            "value": "tea",
+            "label": "Tiệm trà sữa",
+            "description": "Menu nhiều biến thể, topping và mức đường/đá — chọn nhanh, không nhầm đơn."
+          },
+          {
+            "value": "bakery",
+            "label": "Tiệm bánh",
+            "description": "Quản lý bánh theo lô, hạn sử dụng và đặt trước cho khách lấy trong ngày."
+          }
+        ]
+      },
+      {
+        "value": "retail",
+        "label": "Bán lẻ",
+        "icon": "shopping",
+        "badge": "NEW",
+        "models": [
+          {
+            "value": "grocery",
+            "label": "Cửa hàng tạp hoá",
+            "description": "Quét mã vạch, quản lý tồn kho theo lô và cảnh báo hàng sắp hết."
+          },
+          {
+            "value": "fashion",
+            "label": "Thời trang",
+            "description": "Quản lý theo size/màu, kiểm kho nhanh và đồng bộ nhiều chi nhánh."
+          },
+          {
+            "value": "cosmetic",
+            "label": "Mỹ phẩm",
+            "description": "Theo dõi hạn dùng, chương trình tích điểm và chăm sóc khách thân thiết."
+          }
+        ]
+      },
+      {
+        "value": "service",
+        "label": "Dịch vụ",
+        "icon": "chair",
+        "badge": "NEW",
+        "models": [
+          {
+            "value": "salon",
+            "label": "Salon / spa",
+            "description": "Đặt lịch theo kỹ thuật viên, quản lý liệu trình và hoa hồng dịch vụ."
+          },
+          {
+            "value": "laundry",
+            "label": "Giặt là",
+            "description": "Nhận đơn theo cân, theo dõi tiến độ và nhắc khách đến lấy."
+          }
+        ]
+      }
+    ]
+  }
+}
